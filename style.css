@@ -1,0 +1,87 @@
+* {
+	text-decoration: none !important;
+}
+
+img {
+	width: 100%;
+}
+
+.box {
+	height: 100vh;
+	background-color: blue;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("IMG_0479_2.jpg");
+	background-size: cover;
+}
+
+.box:hover {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("IMG_0479_2.jpg");
+}
+
+#page-title {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	font-size: 600%;
+	color: white;
+	vertical-align: middle;
+	position: relative;
+  	top: 40%;
+  	font-weight: 800;
+}
+
+a {
+	color: white !important;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+.col-text {
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+	top: 50%;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	font-weight: 200;
+	font-size: 200%;
+}
+
+.col1 {
+	margin-top: 0;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("thumb_IMG_5141_1024.jpg");
+	background-size: cover;
+}
+
+.col1:hover {
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 8), rgba(0, 0, 0, 0.8)), url("IMG_2371.jpg");
+}
+
+.col2 {
+	margin-top: 0;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("IMG_0205.JPG");
+	background-size: cover;
+}
+
+.col2:hover {
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("IMG_3155.jpg");
+}
+
+.col3 {
+	margin-top: 0;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("thumb_IMG_1959_1024.jpg");
+	background-size: cover;
+}
+
+.col3:hover {
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("IMG_0764_2.jpg");
+	background-size: cover;
+}
