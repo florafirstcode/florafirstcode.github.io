@@ -6,6 +6,12 @@ img {
 	width: 100%;
 }
 
+.hk-box {
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("hk.jpeg");
+	background-size: cover;
+}
+
 .box {
 	height: 100vh;
 	background-color: blue;
@@ -52,36 +58,36 @@ a:hover {
 .col1 {
 	margin-top: 0;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("thumb_IMG_5141_1024.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("IMG_2371.jpg");
 	background-size: cover;
 }
 
 .col1:hover {
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 8), rgba(0, 0, 0, 0.8)), url("IMG_2371.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("thumb_IMG_3345_1024.jpg");
 }
 
 .col2 {
 	margin-top: 0;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("IMG_0205.JPG");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("IMG_5522_1024.jpg");
 	background-size: cover;
 }
 
 .col2:hover {
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("IMG_3155.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("IMG_3155.jpg");
 }
 
 .col3 {
 	margin-top: 0;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("thumb_IMG_1959_1024.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url("IMG_0764_2.jpg");
 	background-size: cover;
 }
 
 .col3:hover {
 	height: 100vh;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("IMG_0764_2.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("IMG_4230_1024.jpg");
 	background-size: cover;
 }
