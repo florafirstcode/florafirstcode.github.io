@@ -12,6 +12,11 @@ img {
 	background-size: cover;
 }
 
+.hk-box:hover {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("photo-1444985196643-57cb0154bbd5.jpeg");
+	background-size: cover;
+}
+
 .box {
 	height: 100vh;
 	background-color: blue;
