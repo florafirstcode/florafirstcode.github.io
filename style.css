@@ -30,18 +30,36 @@ img {
 
 /* boxes */
 
+.center-box {
+	/*width:100%;*/
+	/*background-color: purple;*/
+}
+
+.grid {
+	/*width: 100%;*/
+    /*margin: 0 auto; */
+	/*background-color: green;*/
+}
+
+.grid-item { 
+	width: 45vw;
+	margin: 0 auto; 
+	padding: 0;
+}
+
+
 .box {
 	background-color: black;
 	color: white;
-	/*height: 50vh;*/
-	padding-top: 8%;
-	padding-bottom: 8%;
+	padding: 2%;
 }
 
 .box-content {
 	padding-top: 4%;
 	padding-left: 10%;
-	padding-right: 10%
+	padding-right: 10%;
+	padding-bottom: 5%;
+	border: 2px solid white;
 }
 
 .box:hover {
